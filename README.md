@@ -11,4 +11,4 @@ A patch for Gimp 2.10+ for PaintTool SAI useres. It comes with the standard tool
 ![alt text](https://github.com/JOaomoTAa17319/SAIgimp/blob/main/Images/3.png?raw=true?raw=true)
 ![alt text](https://github.com/JOaomoTAa17319/SAIgimp/blob/main/Images/4.png?raw=true?raw=true)
 # 💾 How to Install
-This build was make for flatpak version of Gimp, but the files work on any version of GIMP. For more check "Install SAIgimp.md"
+This build was make for Linux flatpak version of Gimp. For more check "Install SAIgimp.md". Windows edition not available yet.
