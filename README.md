@@ -1,6 +1,6 @@
 ![alt text](https://github.com/JOaomoTAa17319/SAIgimp/blob/main/Images/saigimp.png?raw=true)
 # 🖌 SAIgimp - V1
-A patch for Gimp 2.10+ for PaintTool SAI useres. It comes with the standard tools of the Gimp project and some features, like:
+A patch for Gimp 2.10+ for PaintTool SAI users. It comes with the standard tools of the Gimp project and some features, like:
 - Tool Organization to look like the SAI's interface;
 - New Splash Screen;
 - New icon and Name from custom .desktop file;
