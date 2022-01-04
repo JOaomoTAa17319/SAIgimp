@@ -1,30 +1,12 @@
-# How to install SAIgimp
-## On Linux with flatpak version of GIMP 2.10
+# How to install SAIgimp on Linux
+### With flatpak version of GIMP 2.10 instaled
+- Download "SAIgimp for Linux.tar.xz"
+- Extract all folders to your /home folder.
 
-Extract all folders
+  - `.icons`
+  - `.var`
+  - `.local`
 
-- `.icons`
-- `.var`
-- `.local`
-
-to your /home folder.
-
-## On Linux with GIMP installed through package manager 
-
-Extract all hidden folders
-
-- `.icons`
-- `.var`
-- `.local`
-
-to your /home folder and then move the subfolder
-
-- `.var/app/org.gimp.GIMP/config/GIMP/2.10`
-
-to `~/.config/gimp/2.10`.
-
-Afterwards you can delete `.var/app/org.gimp.GIMP` respectively `.var`.
-
-## On Windows
+### On Windows
 
 In this first release, SAIgimp has not been tested on Windows. It may work but without guarantees.
