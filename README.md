@@ -1,14 +1,9 @@
 
-
-<h1 align="center">
   <img src="Images/banner.png" alt="GIMP">
-  <br />
-  <a href="https://github.com/JOaomoTAa17319/SAIgimp/releases/download/continuous/SAIgimp-x86_64.AppImage">Download Linux AppImage</a>
-</h1>
 
-<p align="center"><i>"A patch for Gimp 2.10+ for PaintTool SAI users"</i>.<br> It works on Ubuntu, Fedora, Debian, their derivates and all other major Linux
-distributions.</p>
+<h3 align="center"> <a href="https://github.com/JOaomoTAa17319/SAIgimp/releases/download/continuous/SAIgimp-x86_64.AppImage">Download Linux AppImage</a>
 
+  
 # 🌟 Features
 
 It comes with the standard tools of the Gimp project and some features, like:
@@ -17,7 +12,7 @@ It comes with the standard tools of the Gimp project and some features, like:
 - New Splash Screen;
 - Dark Mode;
 - Multi Language: system language is now used by default, you can still change in settings if you want.
-- Resynthesizer
+- Drawing Tablet support
 - Cool styled fonts
 - and more...
 
