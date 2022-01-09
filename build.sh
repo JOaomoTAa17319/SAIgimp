@@ -15,7 +15,7 @@ function downloadGIMP () {
                       |  head -n 1                                                       \
                       |  cut -d "-" -f 3-4)
 
-  RELEASE_PATH="aferrero2707/gimp-appimage/releases/download/continuous"
+  RELEASE_PATH="PhotoMP/gimp-appimage/releases/download/continuous"
 
   wget -c https://github.com/$RELEASE_PATH/GIMP_AppImage-git-$VERSION-x86_64.AppImage -O GIMP.AppImage
 
