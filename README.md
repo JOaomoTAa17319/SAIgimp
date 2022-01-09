@@ -1,7 +1,8 @@
 
   <img src="Images/banner.png" alt="GIMP">
 
-<h3 align="center"> <a href="https://github.com/JOaomoTAa17319/SAIgimp/releases/download/continuous/SAIgimp-x86_64.AppImage">Download Linux AppImage</a>
+<h3 align="center"> <a href="https://github.com/JOaomoTAa17319/SAIgimp/releases/download/continuous/SAIgimp-x86_64.AppImage">Download Linux AppImage</a> | <a href="https://github.com/JOaomoTAa17319/SAIgimp/releases/download/saigimp1/SAIgimp.for.Linux.tar.xz">Download GIMP Flatpak Patch</a>
+
 
   
 # 🌟 Features
