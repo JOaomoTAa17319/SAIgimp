@@ -30,6 +30,12 @@ It comes with the standard tools of the Gimp project and some features, like:
 2. Click on "Properties" go to Permission tab and check "make it execuble" or similar
 3. Do a double click on "SAIgimp-x86_64.AppImage"
 
+# 🔷 How to install (Windows - Portable app)
+
+1. Click on [download link](https://sourceforge.net/projects/saigimp/files/latest/download)
+2. Extract the folder for any folder of your computer
+3. Do a double click on "SAIgimp for Windows .exe"
+  
 # 📦 How to install (if you use GIMP via Flatpak)
 
 1. Download "SAIgimp for Linux.tar.xz"
